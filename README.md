@@ -11,4 +11,4 @@ The OS will be supported and updated for a long time. This section of the docume
 * **System calls and user mode**
 * **Built-in compiler for a custom programming language — C/**
 * **GUI and graphics stack**
-* **ARM support**stackstack**
+* **ARM support**
